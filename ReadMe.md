@@ -1,0 +1,1 @@
+Uma tasklist para armazenar tarefas e tira-las conforme cumpri-las
